@@ -9,8 +9,4 @@ h1.classList.add("titulo");
 article.classList.add("fondoTransparente");
 section.classList.add("fondoCRUD");
 
-
-
-
-
 })
